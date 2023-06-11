@@ -1,0 +1,46 @@
+html {
+  background-color: black;
+}
+
+.bg {
+  background-color: black;
+}
+
+.post {
+  border: 1px solid #007bff;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: black;
+  color: #ccc;
+}
+
+.riddit-title {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.post-img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.post-link {
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #007bff;
+  font-size: 20px;
+}
+
+.post-link:hover {
+  text-decoration: underline;
+}
+
+.riddit-result {
+  background-color: black;
+}
+
+.text {
+  color: #ccc;
+}
